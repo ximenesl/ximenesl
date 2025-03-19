@@ -10,7 +10,7 @@
 <h3 align="center"><strong>FullStack </strong> Developer 💻</h3>
 
 <p align="center">
-  <strong>Sou estudante de ADS na Faculdade SENAC, Desenvolvedor FullStack</strong><br>
+  <strong>Sou estudante de ADS na Faculdade SENAC</strong><br>
   <strong>Atualmente estou aprendendo: Python</strong>📚<br>
   <strong>Meus conhecimentos: JavaScript, Java, HTML, CSS, MySQL e Arduino</strong>🚀<br>
 </p>
