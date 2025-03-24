@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&color=black&logoColor=white&link=mailto:lcsximenes13@gmail.com)](mailto:lcsximenes13@gmail.com)
 </div>
 
-<h3 align="center"><strong>FullStack </strong> Developer 💻</h3>
+<h3 align="center"><strong>Front-end </strong> Developer 💻</h3>
 
 <p align="center">
   <strong>Sou estudante de ADS na Faculdade SENAC</strong><br>
