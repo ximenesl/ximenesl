@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá meu nome é Lucas Ximenes<br>Instrutor Senac - Mediotec<br>Dev Full-stack<br>Sou estudante de ADS na Faculdade SENAC
+Olá meu nome é Lucas Ximenes<br>Desenvolvedor Front End<br>Sou estudante de ADS na Faculdade SENAC
 
 
 ## 🌐 Socials:
